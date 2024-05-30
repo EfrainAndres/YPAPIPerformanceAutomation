@@ -13,8 +13,8 @@ This project contains performance testing scripts using [K6](https://k6.io/), a 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/Performance.git
-    cd Performance
+    git clone https://github.com/EfrainAndres/YPAPIPerformanceAutomation.git
+    cd YPAPIPerformanceAutomation
     ```
 
 ## Project Structure
