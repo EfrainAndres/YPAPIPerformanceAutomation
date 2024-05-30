@@ -6,8 +6,8 @@ export const options = {
     },
     ext: {
       loadimpact: {
-        projectID: 3699345,
-        token: 'ccbff8bb3206219a6401e859d7bd29afce9535a74657b01c19be7ae682ab9d60'
+        projectID: yourID,
+        token: 'yourToken'
       }
     }
   };
